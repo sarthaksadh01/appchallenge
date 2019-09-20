@@ -44,7 +44,7 @@ app.get("/register", function(req, res) {
 
 // handle sign up logic
 app.post("/register", function(req, res) {
-    console.log(req.body.teamName);
+    // console.log(req.body.teamName);
     
     var newUser = new User({
         mainEmail:req.body.mainEmail,
