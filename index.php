@@ -10,7 +10,8 @@
         content="InfoXpression'19 present 24 hrs online App Innovation Challenge. Participants have to build application based upon the given theme within the timespan of 24 hrs">
     <meta name="author" content="Inovatik">
 
-    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+    <!-- OG Meta Tags to improve the way the pos
+    t looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="App Innovation Challenge" /> <!-- website name -->
     <meta property="og:site" content="https://idroid.infoxpression.in" /> <!-- website link -->
     <meta property="og:title" content="" /> <!-- title shown in the actual shared post -->
@@ -33,6 +34,10 @@
 
     <!-- Favicon  -->
     <link rel="icon" href="images/infox.png">
+    <script>
+        // manual redirect using javascript
+        if(location.protocol=="http:")window.location.href = "https://idroid.infoxpression.in";
+    </script>
 </head>
 
 <body data-spy="scroll" data-target=".fixed-top">
