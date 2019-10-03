@@ -285,10 +285,10 @@
                                                 <div class="card-body">
                                                     <div class="text-wrapper">
                                                         <h4 class="card-title">Idea</h4>
-                                                        <li>Maks will be given on how interesting is your app</li>
+                                                        <li>Marks will be given on how interesting is your app</li>
                                                        <li> You can build something totally useless and as long as
                                                             you're learning and having fun.</li>
-                                                       <li> <u> No</u> extra points will be given for an app that solves real world problem</li>
+                                             
                                                        <li>Themes should be strictly followed!</li>
                                                       
         
