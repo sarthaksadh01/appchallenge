@@ -199,8 +199,8 @@
                                         <div class="card-body">
                                             <div class="text-wrapper">
                                                 <h4 class="card-title">Submissions</h4>
-                                                <li>The Submission phase begins on 11th of October 2019 10am And ends at
-                                                    12th of
+                                                <li>The Submission phase begins on 10th of October 2019 10am And ends at
+                                                    11th of
                                                     October 10am.</li>
                                                 <li>Only Team leaders are required to submit the project </li>
                                                 <li>Project can be updated any number of time while the submission phase
@@ -468,7 +468,7 @@
                     <div id="counter">
 
                         <div class="cell">
-                            <div class="counter-value number-count" data-count="8">1</div>
+                            <div class="counter-value number-count" data-count="6">1</div>
                             <p class="counter-info">Themes</p>
                         </div>
                         <div class="cell">
@@ -476,7 +476,7 @@
                             <p class="counter-info">Hours</p>
                         </div>
                         <div class="cell">
-                            <div class="counter-value number-count" data-count="10k">K</div>
+                            <div class="counter-value number-count" data-count="8">K</div>
                             <p class="counter-info">Prizes(K)</p>
                         </div>
                     </div>
