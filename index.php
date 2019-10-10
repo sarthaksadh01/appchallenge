@@ -96,7 +96,7 @@
                         <div class="text-container">
                             <h1>App  Challenge <br>It's Time to <span id="js-rotating">Think, Build, Grow</span></h1>
                             <p class="p-large">InfoXpression'19 present 24 hrs online App Innovation Challenge. Participants have to build application based upon the given theme within the timespan of 24 hrs</p>
-                            <a class="btn-solid-lg page-scroll" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeEo7ygLZiQqSS0G9bq9DFC--BElOFlMZ0FRKzNtW4XPSaSEg/viewform"></i>Register here</a>
+                            <a class="btn-solid-lg page-scroll" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeeqY69DMRuXq17qLQ8PgEZlA4kR7OV5ARxXIW1DyJw9R4kqA/viewform"></i>Submit App</a>
                         </div>
                     </div> <!-- end of col -->
                     <div class="col-lg-6">
