@@ -343,7 +343,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-12  pb-5">
-                    <h2>Themes will be released soon!</h2>
+                    <h2> <a class="btn-solid-lg page-scroll" target="_blank" href="https://docs.google.com/document/d/15il25E7va6kVzGgN_BW-tz-0_71cmZWwjZ3qkrIlpRE/edit?usp=sharing"></i>Themes</a></h2>
                 </div>
                
             </div> <!-- end of row -->
